@@ -15,6 +15,11 @@ Aprender y demostrar el uso de JavaScript para interactuar con elementos HTML me
 - CSS3
 - JavaScript (Vanilla)
 
+## 🔄 Ejemplos con eventos
+- Toggle ON / OFF con manejo de estado
+- Actualización dinámica de texto
+
+
 ## 📌 Autor
 Alberto Figini
 
@@ -36,6 +41,10 @@ Learn and demonstrate the use of JavaScript to interact with HTML elements throu
 - HTML5
 - CSS3
 - Vanilla JavaScript
+
+## 🔄 Examples with events
+- Activate/deactivate with state management
+- Dynamic text update
 
 ## 📌 Author
 Alberto Figini
