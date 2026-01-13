@@ -22,5 +22,32 @@ toggleBtn.addEventListener("click", () => {
     statusText.textContent = "Estado actual: OFF";
     toggleBtn.textContent = "Activar";
   }
+  
+  const counterValue = document.getElementById("counterValue");
+const increaseBtn = document.getElementById("increaseBtn");
+const decreaseBtn = document.getElementById("decreaseBtn");
+const resetBtn = document.getElementById("resetBtn");
+
+let counter = 0;
+
+function updateCounter() {
+  counterValue.textContent = counter;
+}
+
+increaseBtn.addEventListener("click", () => {
+  counter++;
+  updateCounter();
+});
+
+decreaseBtn.addEventListener("click", () => {
+  counter--;
+  updateCounter();
+});
+
+resetBtn.addEventListener("click", () => {
+  counter = 0;
+  updateCounter();
+});
+
 });
 
