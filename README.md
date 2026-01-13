@@ -19,6 +19,8 @@ Aprender y demostrar el uso de JavaScript para interactuar con elementos HTML me
 - Toggle ON / OFF con manejo de estado
 - Actualización dinámica de texto
 
+## 🧮 Mini funcionalidades
+- Contador con incremento, decremento y reset
 
 ## 📌 Autor
 Alberto Figini
@@ -45,6 +47,9 @@ Learn and demonstrate the use of JavaScript to interact with HTML elements throu
 ## 🔄 Examples with events
 - Activate/deactivate with state management
 - Dynamic text update
+
+## 🧮 Mini functionalities
+- Counter with increment, decrement, and reset
 
 ## 📌 Author
 Alberto Figini
